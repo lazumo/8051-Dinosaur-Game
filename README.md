@@ -1,5 +1,6 @@
 # 8051 Dinosaur Game
 ![image](https://github.com/lazumo/8051-Dinosaur-Game/assets/63379847/9bb521f8-afaf-4d9e-9869-df61330302ed)
+![image](https://github.com/lazumo/8051-Dinosaur-Game/assets/63379847/461c40f9-9140-45af-9cda-7c9a037e214a)
 
 This project implements a dinosaur game on the 8051 microcontroller using C. It includes a basic thread manager to handle multiple threads: event detection, game logic processing, and rendering.
 
